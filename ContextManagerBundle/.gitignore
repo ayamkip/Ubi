@@ -1,9 +1,0 @@
-target/
-
-# eclipse
-.project
-.classpath
-.settings/
-
-# temp files
-*~
